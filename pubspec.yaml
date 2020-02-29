@@ -1,0 +1,10 @@
+name: calendar_recurrence
+description: A minimal parser/generator of recurrence rule for Google Calendar
+version: 0.0.1
+author: eric windmill <eric@ericwindmill.com>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.12.0

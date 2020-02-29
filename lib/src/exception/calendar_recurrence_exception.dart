@@ -1,0 +1,1 @@
+class RecurrenceException implements Exception {}

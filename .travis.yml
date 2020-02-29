@@ -1,0 +1,7 @@
+language: dart
+dart:
+  - dev
+install: pub get
+script: make check
+sudo: false
+
